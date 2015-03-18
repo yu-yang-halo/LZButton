@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>825D67A7-BB14-49D5-BC6B-5E77E56D2000</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LZButtonDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>40687974A41F0DD532D43084E570F1E9443B791B</key>
+		<string>https://github.com/yu-yang-halo/LZButton.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LZButtonDemo/LZButtonDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>40687974A41F0DD532D43084E570F1E9443B791B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yu-yang-halo/LZButton.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>40687974A41F0DD532D43084E570F1E9443B791B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>40687974A41F0DD532D43084E570F1E9443B791B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LZButton</string>
+		</dict>
+	</array>
+</dict>
+</plist>
